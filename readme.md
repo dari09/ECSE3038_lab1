@@ -34,7 +34,7 @@ hyperthermic or has normal body temperature based on the number passed to the fu
 The second value passed as argument should tell the function whether the condition should 
 calculated in degrees celcius or degrees fahrenheit.
     
-Why did the thermometer leave the Antartica? To get some degrees!
+Why did the thermometer apply for scholarships? To get some degrees!
 
 
 ----------------------------------------------------------------------------------------------
