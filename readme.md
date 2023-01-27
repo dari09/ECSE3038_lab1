@@ -19,7 +19,7 @@ Disclaimer: If you get incorrect answers the author of the code is not liable.
 
 ----------------------------------------------------------------------------------------------
 
-# Function 2 "potential divider()"
+# Function 2 "potential_divider()"
 
 This function should takes two values as an argument, a number that represents a 
 voltage supply value and a list of numbers of any length that represent resistance values of 
@@ -30,7 +30,7 @@ Why did the voltage divider sign a peace treaty? It wanted to reduce the resista
 
 ----------------------------------------------------------------------------------------------
 
-# Function 3 "temperature check"
+# Function 3 "temperature_check()"
 
 This function accepts a single number for a patient's body temperature, and a single character, 
 for the unit of temperature. The function should output whether the patient is hypothermic, 
