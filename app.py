@@ -1,6 +1,6 @@
 import math
 
-#FUnction 1 - Adding resistors in parallel
+#Function 1 - Adding resistors in parallel
 def parallel(arr):
     sum = 0
     for x in arr:
