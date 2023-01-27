@@ -1,5 +1,6 @@
 import math
 
+
 #Function 1 - Adding resistors in parallel
 def parallel(arr):
     sum = 0
@@ -27,3 +28,26 @@ def potential_divider(v,arr):
 resistors = [3000,1000]
 potential_divider(9,resistors)
 
+
+#Function 3 - Detecting abnormal temperatures
+def temperature_check(x,char):
+    if (char == "C" or char == "c"):
+        if (x > 35 and x < 37.5):
+            print("The patient's temperature is normal")
+        if (x < 35):
+            print("The patient is hypothermic")
+        if(x > 37.5):
+            print("The patient is hyperthermic")
+    elif (char == "F" or char == "f"):
+        if (x > 97 and x < 99):
+            print("The patient's temperature is normal")
+        if (x < 97):
+            print("The patient is hypothermic")
+        if(x > 99):
+            print("The patient is hyperthermic")
+    else:
+        print("Invalid units entered please enter temperature in degrees C or degrees F")
+
+
+#Example of function use
+temperature_check(98,"f")
