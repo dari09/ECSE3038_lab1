@@ -34,8 +34,8 @@ Why did the voltage divider sign a peace treaty? It wanted to reduce the resista
 
 This function accepts a single number for a patient's body temperature, and a single character, 
 for the unit of temperature. The function should output whether the patient is hypothermic, 
-hyperthermic or has normal body temperature based on the number passed to the function.  
-The second value passed as argument should tell the function whether the condition should 
+hyperthermic or has normal body temperature based on the number passed to the function.
+The second value passed as argument should tell the function whether the condition should
 calculated in degrees celcius or degrees fahrenheit.
     
 Why did the thermometer apply for scholarships? To get some degrees!
