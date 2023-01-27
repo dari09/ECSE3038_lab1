@@ -14,7 +14,7 @@ students with Git, GithHub and Python and the development environment.
 This function should return the sum of any range of varying resistor values assuming 
 that they are connected in parallel. The sum is rounded off to 3 decimal places.
 
-Feel free to use this program to cheat on any upcoming quizzes at your own risk.
+Feel free to use this program to cheat on any upcoming quizzes at your own risk.  
 **Disclaimer:** The author takes no responsiblity for any bad grades from the use of this code.
 
 ----------------------------------------------------------------------------------------------
