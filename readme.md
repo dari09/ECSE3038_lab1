@@ -1,6 +1,6 @@
 Darien Maynard 620133775
 
-#Lab 1
+# Lab 1
 
 ----------------------------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ students with Git, GithHub and Python and the development environment.
 
 ----------------------------------------------------------------------------------------------
 
-#Function 1 "parallel()" 
+# Function 1 "parallel()" 
 
 This function should return the sum of any range of varying resistor values assuming 
 that they are connected in parallel. The sum is rounded off to 3 decimal places.
@@ -19,7 +19,7 @@ Disclaimer: If you get incorrect answers the author of the code is not liable.
 
 ----------------------------------------------------------------------------------------------
 
-#Function 2 "potential divider()"
+# Function 2 "potential divider()"
 
 This function should takes two values as an argument, a number that represents a 
 voltage supply value and a list of numbers of any length that represent resistance values of 
@@ -30,7 +30,7 @@ Why did the voltage divider sign a peace treaty? It wanted to reduce the resista
 
 ----------------------------------------------------------------------------------------------
 
-#Function 3 "temperature check"
+# Function 3 "temperature check"
 
 This function accepts a single number for a patient's body temperature, and a single character, 
 for the unit of temperature. The function should output whether the patient is hypothermic, 
